@@ -1,9 +1,11 @@
-■ Next.js ドキュメント(日本語サイト)
+■ 参照サイト1
+    Next.js ドキュメント(日本語サイト)
     url: https://nextjs-docs-ja.netlify.app/docs
 
-■ 初めてでもわかるNext.jsの基礎(React)
+■ 参照サイト2
+    初めてでもわかるNext.jsの基礎(React)
     url: https://reffect.co.jp/react/next-js
 
-■ Next.js 9.3新API getStaticProps と getStaticPaths と getServerSideProps の概要解説
+■ 参照サイト3
+    Next.js 9.3新API getStaticProps と getStaticPaths と getServerSideProps の概要解説
     url: https://qiita.com/matamatanot/items/1735984f40540b8bdf91
-    
