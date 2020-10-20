@@ -54,6 +54,16 @@ export default function Home() {
             <a>Welcome</a>
           </Link>
         </div>
+        <div>
+          <Link href="stars">
+            <a>Stars</a>
+          </Link>
+        </div>
+        <div>
+          <Link href="buildTimeStars">
+            <a>BuildTimeStars</a>
+          </Link>
+        </div>
       </main>
 
       <footer className={styles.footer}>
