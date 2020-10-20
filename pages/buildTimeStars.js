@@ -24,12 +24,14 @@ export const getStaticProps = async () => {
     // ビルド時刻の取得
     const build_time = new Date().toString()
 
-    return {
-        props: {
-            stars,
-            build_time
-        },
-    }
+    return (
+        {
+            props: {
+                stars,
+                build_time
+            },
+        }
+    )
 }
 
 export default BuildTimeStars
