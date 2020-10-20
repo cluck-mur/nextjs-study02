@@ -3,7 +3,7 @@
  * 参照サイト3: Dynamic Routes
  * 
  ************************************/
-import { useRouter } from 'nex/router'
+import { useRouter } from 'next/router'
 
 const Post = () => {
     const router = useRouter()
